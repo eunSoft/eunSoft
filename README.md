@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=B7F0B1&height=200&section=header&text=나의%20깃허브%20꾸미기&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=B7F0B1&height=80&section=header&text=eunni의%20깃허브&fontSize=50)
 <!--한줄로 써야하고 글자사이에 뛰어쓰기 하려면 %20 넣어야함-->
 ---
 ### 반가워요<br>
